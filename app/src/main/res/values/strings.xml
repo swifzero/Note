@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="hint_title">Input title here</string>
+    <string name="hint_body">Input body here</string>
+    <string name="add_new_note">Add</string>
+    <string name="delete_note">Delete</string>
+    <string name="add_web">Web</string>
+</resources>
